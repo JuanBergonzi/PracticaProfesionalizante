@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P8uOdwozqGU=",
+  "dgSpecHash": "rmq9LxcXkxI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\AdmVet\\AdmVet\\AdmVet.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\AdmVet\\AdmVet\\AdmVet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\antlr4.runtime\\4.6.6\\antlr4.runtime.4.6.6.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",

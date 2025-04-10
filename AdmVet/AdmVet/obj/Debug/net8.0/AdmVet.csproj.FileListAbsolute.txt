@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\GitHub\PracticaProfesionalizante\AdmVet\AdmVet\obj\Debug\net8.0\AdmVet.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\PracticaProfesionalizante\AdmVet\AdmVet\obj\Debug\net8.0\AdmVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\PracticaProfesionalizante\AdmVet\AdmVet\obj\Debug\net8.0\AdmVet.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\PracticaProfesionalizante\AdmVet\AdmVet\obj\Debug\net8.0\AdmVet.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\PracticaProfesionalizante\AdmVet\AdmVet\obj\Debug\net8.0\AdmVet.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\PracticaProfesionalizante\AdmVet\AdmVet\obj\Debug\net8.0\AdmVet.sourcelink.json
