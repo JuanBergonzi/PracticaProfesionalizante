@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practica_prof2\\ejercicio3\\centidades\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practica_prof2\\ejercicio3\\centidades\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practica_prof2\\ejercicio3\\centidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practica_prof2\\ejercicio3\\centidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practica_prof2\\ejercicio3\\centidades\\estacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\estacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Empleado.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Empleado.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Empleado.cs",
+              "RelativeToolTip": "CEntidades\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:31:35.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alquiler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Alquiler.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Alquiler.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Alquiler.cs",
+              "RelativeToolTip": "CEntidades\\Alquiler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:27:54.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Cliente.cs",
+              "RelativeToolTip": "CEntidades\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:27:44.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estacion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Estacion.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Estacion.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Estacion.cs",
+              "RelativeToolTip": "CEntidades\\Estacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:27:14.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Bicicleta.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Bicicleta.cs",
+              "RelativeToolTip": "CEntidades\\Bicicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:26:53.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

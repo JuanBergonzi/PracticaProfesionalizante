@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\bin\Debug\net8.0\Ej2Practica.exe
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\bin\Debug\net8.0\Ej2Practica.deps.json
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\bin\Debug\net8.0\Ej2Practica.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\bin\Debug\net8.0\Ej2Practica.dll
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\bin\Debug\net8.0\Ej2Practica.pdb
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\obj\Debug\net8.0\Ej2Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\obj\Debug\net8.0\Ej2Practica.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\obj\Debug\net8.0\Ej2Practica.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\obj\Debug\net8.0\Ej2Practica.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\obj\Debug\net8.0\Ej2Practica.dll
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\obj\Debug\net8.0\refint\Ej2Practica.dll
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\obj\Debug\net8.0\Ej2Practica.pdb
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\obj\Debug\net8.0\Ej2Practica.genruntimeconfig.cache
+C:\Users\HP\Documents\GitHub\Practica_Prof2\Ej2Practica\Ej2Practica\obj\Debug\net8.0\ref\Ej2Practica.dll
