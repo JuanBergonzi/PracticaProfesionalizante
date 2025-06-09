@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CLogica\\CLogica.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CLogica\\CLogica.csproj",
       "projectName": "CLogica",
-      "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CLogica\\CLogica.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CLogica\\CLogica.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CLogica\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CLogica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

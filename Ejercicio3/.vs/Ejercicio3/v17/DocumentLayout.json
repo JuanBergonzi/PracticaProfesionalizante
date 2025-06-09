@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practica_prof2\\ejercicio3\\centidades\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AB437D3-0C85-4D71-B5E9-A3A6B63D4670}|CDatos\\CDatos.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\ejercicio3\\cdatos\\contexts\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB437D3-0C85-4D71-B5E9-A3A6B63D4670}|CDatos\\CDatos.csproj|solutionrelative:cdatos\\contexts\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practica_prof2\\ejercicio3\\centidades\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\ejercicio3\\centidades\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practica_prof2\\ejercicio3\\centidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practica_prof2\\ejercicio3\\centidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\ejercicio3\\centidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practica_prof2\\ejercicio3\\centidades\\estacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\ejercicio3\\centidades\\estacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\estacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\ejercicio3\\centidades\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE910FC-5368-4FEB-8F2D-09D53DD7D3A5}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\ejercicio3\\ejercicio3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE910FC-5368-4FEB-8F2D-09D53DD7D3A5}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\ejercicio3\\centidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A62F323-F63A-4F90-B9E8-79FA822FEB40}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,67 +38,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CEntidades\\Empleado.cs",
               "RelativeDocumentMoniker": "CEntidades\\Empleado.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Empleado.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CEntidades\\Empleado.cs",
               "RelativeToolTip": "CEntidades\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:31:35.637Z",
+              "WhenOpened": "2025-04-07T23:31:35.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\Ejercicio3\\Class1.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\Ejercicio3\\Class1.cs",
+              "RelativeToolTip": "Ejercicio3\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:47:22.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CDatos\\Contexts\\Context.cs",
+              "RelativeDocumentMoniker": "CDatos\\Contexts\\Context.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CDatos\\Contexts\\Context.cs",
+              "RelativeToolTip": "CDatos\\Contexts\\Context.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvy4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:43:35.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Alquiler.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Alquiler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CEntidades\\Alquiler.cs",
               "RelativeDocumentMoniker": "CEntidades\\Alquiler.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Alquiler.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CEntidades\\Alquiler.cs",
               "RelativeToolTip": "CEntidades\\Alquiler.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T23:27:54.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CEntidades\\Cliente.cs",
               "RelativeDocumentMoniker": "CEntidades\\Cliente.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CEntidades\\Cliente.cs",
               "RelativeToolTip": "CEntidades\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:27:44.222Z"
+              "WhenOpened": "2025-04-07T23:27:44.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estacion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CEntidades\\Estacion.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Estacion.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CEntidades\\Estacion.cs",
+              "RelativeToolTip": "CEntidades\\Estacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:27:14.413Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Estacion.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Estacion.cs",
-              "RelativeDocumentMoniker": "CEntidades\\Estacion.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Estacion.cs",
-              "RelativeToolTip": "CEntidades\\Estacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:27:14.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Bicicleta.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CEntidades\\Bicicleta.cs",
               "RelativeDocumentMoniker": "CEntidades\\Bicicleta.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\CEntidades\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\CEntidades\\Bicicleta.cs",
               "RelativeToolTip": "CEntidades\\Bicicleta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T23:26:53.096Z",
               "EditorCaption": ""

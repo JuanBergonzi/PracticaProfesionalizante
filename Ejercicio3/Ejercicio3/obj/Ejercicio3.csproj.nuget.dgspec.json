@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj": {}
+    "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj": {
+    "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
         "projectName": "Ejercicio3",
-        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ejercicio3\\Ejercicio3\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ejercicio3\\Ejercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

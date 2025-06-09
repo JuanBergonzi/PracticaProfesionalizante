@@ -8,6 +8,7 @@ namespace CEntidades
 {
     public class Alquiler
     {
+        public int AlquilerId { get; set; }
         public Cliente Cliente { get; set; }
         public Empleado Empleado { get; set; }
         public Bicicleta Bicicleta { get; set; }

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ej2Practica\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ej2Practica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7074F4F9-B779-483A-B592-253BE9C0825F}|Ej2Practica\\Ej2Practica.csproj|c:\\users\\hp\\documents\\github\\practica_prof2\\ej2practica\\ej2practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7074F4F9-B779-483A-B592-253BE9C0825F}|Ej2Practica\\Ej2Practica.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\ej2practica\\ej2practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7074F4F9-B779-483A-B592-253BE9C0825F}|Ej2Practica\\Ej2Practica.csproj|solutionrelative:ej2practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ej2Practica\\Ej2Practica\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ej2Practica\\Ej2Practica\\Program.cs",
               "RelativeDocumentMoniker": "Ej2Practica\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ej2Practica\\Ej2Practica\\Program.cs",
-              "RelativeToolTip": "Ej2Practica\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ej2Practica\\Ej2Practica\\Program.cs*",
+              "RelativeToolTip": "Ej2Practica\\Program.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAA7wFcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T15:59:53.646Z",
               "EditorCaption": ""

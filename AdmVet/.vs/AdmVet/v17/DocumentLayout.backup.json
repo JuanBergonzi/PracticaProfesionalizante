@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\AdmVet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{106081DC-668D-4F65-8EAC-700A25027992}|AdmVet\\AdmVet.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\admvet\\admvet\\services\\perrodatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106081DC-668D-4F65-8EAC-700A25027992}|AdmVet\\AdmVet.csproj|solutionrelative:admvet\\services\\perrodatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106081DC-668D-4F65-8EAC-700A25027992}|AdmVet\\AdmVet.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\admvet\\admvet\\clases\\animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106081DC-668D-4F65-8EAC-700A25027992}|AdmVet\\AdmVet.csproj|solutionrelative:admvet\\clases\\animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{106081DC-668D-4F65-8EAC-700A25027992}|AdmVet\\AdmVet.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\admvet\\admvet\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{106081DC-668D-4F65-8EAC-700A25027992}|AdmVet\\AdmVet.csproj|solutionrelative:admvet\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{106081DC-668D-4F65-8EAC-700A25027992}|AdmVet\\AdmVet.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\admvet\\admvet\\clases\\duenio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{106081DC-668D-4F65-8EAC-700A25027992}|AdmVet\\AdmVet.csproj|solutionrelative:admvet\\clases\\duenio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{106081DC-668D-4F65-8EAC-700A25027992}|AdmVet\\AdmVet.csproj|c:\\users\\hp\\documents\\github\\practicaprofesionalizante\\admvet\\admvet\\clases\\animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{106081DC-668D-4F65-8EAC-700A25027992}|AdmVet\\AdmVet.csproj|solutionrelative:admvet\\clases\\animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PerroDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\AdmVet\\AdmVet\\Services\\PerroDataStore.cs",
+              "RelativeDocumentMoniker": "AdmVet\\Services\\PerroDataStore.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\AdmVet\\AdmVet\\Services\\PerroDataStore.cs",
+              "RelativeToolTip": "AdmVet\\Services\\PerroDataStore.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:27:03.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\AdmVet\\AdmVet\\Class1.cs",
               "RelativeDocumentMoniker": "AdmVet\\Class1.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Duenio.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\AdmVet\\AdmVet\\Clases\\Duenio.cs",
               "RelativeDocumentMoniker": "AdmVet\\Clases\\Duenio.cs",
@@ -47,18 +64,17 @@
               "RelativeToolTip": "AdmVet\\Clases\\Duenio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T22:28:53.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T22:28:53.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Animales.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\AdmVet\\AdmVet\\Clases\\Animales.cs",
               "RelativeDocumentMoniker": "AdmVet\\Clases\\Animales.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\AdmVet\\AdmVet\\Clases\\Animales.cs",
               "RelativeToolTip": "AdmVet\\Clases\\Animales.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T22:28:39.971Z",
               "EditorCaption": ""

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documentos\\GitHub\\Programacion-2\\EjSoap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED96E549-6D1B-4198-BD1E-B4A2B9ED5A4B}|EjSoap1\\EjSoap1.csproj|c:\\users\\hp\\onedrive\\documentos\\github\\programacion-2\\ejsoap1\\ejsoap1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED96E549-6D1B-4198-BD1E-B4A2B9ED5A4B}|EjSoap1\\EjSoap1.csproj|solutionrelative:ejsoap1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED96E549-6D1B-4198-BD1E-B4A2B9ED5A4B}|EjSoap1\\EjSoap1.csproj|c:\\users\\hp\\onedrive\\documentos\\github\\programacion-2\\ejsoap1\\ejsoap1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED96E549-6D1B-4198-BD1E-B4A2B9ED5A4B}|EjSoap1\\EjSoap1.csproj|solutionrelative:ejsoap1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED96E549-6D1B-4198-BD1E-B4A2B9ED5A4B}|EjSoap1\\EjSoap1.csproj|c:\\users\\hp\\onedrive\\documentos\\github\\programacion-2\\ejsoap1\\ejsoap1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED96E549-6D1B-4198-BD1E-B4A2B9ED5A4B}|EjSoap1\\EjSoap1.csproj|solutionrelative:ejsoap1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED96E549-6D1B-4198-BD1E-B4A2B9ED5A4B}|EjSoap1\\EjSoap1.csproj|c:\\users\\hp\\onedrive\\documentos\\github\\programacion-2\\ejsoap1\\ejsoap1\\connected services\\servicereference2\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED96E549-6D1B-4198-BD1E-B4A2B9ED5A4B}|EjSoap1\\EjSoap1.csproj|solutionrelative:ejsoap1\\connected services\\servicereference2\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED96E549-6D1B-4198-BD1E-B4A2B9ED5A4B}|EjSoap1\\EjSoap1.csproj|c:\\users\\hp\\onedrive\\documentos\\github\\programacion-2\\ejsoap1\\ejsoap1\\connected services\\servicereference2\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED96E549-6D1B-4198-BD1E-B4A2B9ED5A4B}|EjSoap1\\EjSoap1.csproj|solutionrelative:ejsoap1\\connected services\\servicereference2\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\GitHub\\Programacion-2\\EjSoap1\\EjSoap1\\Form1.cs",
+              "RelativeDocumentMoniker": "EjSoap1\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\GitHub\\Programacion-2\\EjSoap1\\EjSoap1\\Form1.cs",
+              "RelativeToolTip": "EjSoap1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:05:14.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\GitHub\\Programacion-2\\EjSoap1\\EjSoap1\\Form1.cs",
+              "RelativeDocumentMoniker": "EjSoap1\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\GitHub\\Programacion-2\\EjSoap1\\EjSoap1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjSoap1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:04:27.082Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\GitHub\\Programacion-2\\EjSoap1\\EjSoap1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EjSoap1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\GitHub\\Programacion-2\\EjSoap1\\EjSoap1\\Form1.Designer.cs",
+              "RelativeToolTip": "EjSoap1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:03:49.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectedService.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\GitHub\\Programacion-2\\EjSoap1\\EjSoap1\\Connected Services\\ServiceReference2\\ConnectedService.json",
+              "RelativeDocumentMoniker": "EjSoap1\\Connected Services\\ServiceReference2\\ConnectedService.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\GitHub\\Programacion-2\\EjSoap1\\EjSoap1\\Connected Services\\ServiceReference2\\ConnectedService.json",
+              "RelativeToolTip": "EjSoap1\\Connected Services\\ServiceReference2\\ConnectedService.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T20:03:41.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\GitHub\\Programacion-2\\EjSoap1\\EjSoap1\\Connected Services\\ServiceReference2\\Reference.cs",
+              "RelativeDocumentMoniker": "EjSoap1\\Connected Services\\ServiceReference2\\Reference.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\GitHub\\Programacion-2\\EjSoap1\\EjSoap1\\Connected Services\\ServiceReference2\\Reference.cs",
+              "RelativeToolTip": "EjSoap1\\Connected Services\\ServiceReference2\\Reference.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:02:12.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

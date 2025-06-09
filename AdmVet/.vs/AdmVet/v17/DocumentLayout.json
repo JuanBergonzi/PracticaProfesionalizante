@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "AdmVet\\Services\\PerroDataStore.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\AdmVet\\AdmVet\\Services\\PerroDataStore.cs",
               "RelativeToolTip": "AdmVet\\Services\\PerroDataStore.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T21:27:03.296Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "AdmVet\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T22:36:27.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T22:36:27.036Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "AdmVet\\Clases\\Animales.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T22:28:39.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T22:28:39.971Z"
             }
           ]
         }

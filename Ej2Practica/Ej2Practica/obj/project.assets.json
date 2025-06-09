@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ej2Practica\\Ej2Practica\\Ej2Practica.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ej2Practica\\Ej2Practica\\Ej2Practica.csproj",
       "projectName": "Ej2Practica",
-      "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ej2Practica\\Ej2Practica\\Ej2Practica.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ej2Practica\\Ej2Practica\\Ej2Practica.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\Practica_Prof2\\Ej2Practica\\Ej2Practica\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\PracticaProfesionalizante\\Ej2Practica\\Ej2Practica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
